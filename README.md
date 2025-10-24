@@ -20,12 +20,6 @@ Criei minha primeira pasta
 
 
 
-https://app--athlete-vision-a564e023.base44.app/
-
-
-
-
-
 
 ![KeepCoding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w3ZWFrZmUwbG5nZGp1N215NmVzdXBjOHh2djZjcnk2a212cjEyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.gif)
 
