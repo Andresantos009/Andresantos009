@@ -10,7 +10,6 @@ Criei minha primeira pasta
 - 👦 Idade: 16 anos 
 - 🎯 Objetivo: Ingressar na área de desenvolvimento e crescer cada vez mais!  
 - 📚 Atualmente estudando lógica de programação, estruturas de dados e projetos divertidos em Python.
-- #333333333333
 
 
 
