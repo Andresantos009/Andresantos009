@@ -16,7 +16,7 @@ Criei minha primeira pasta
 -  🌱 Aprendendo sempre, compartilhando conhecimento e contribuindo com a comunidade open source.
 -  🧠 Curioso por natureza, movido por desafios e café ☕.
 
--   Participante do projeto "Athlete Vision"
+
 
 
 
